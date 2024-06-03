@@ -25,7 +25,7 @@ Vamos criar um DFA simples que aceita cadeias binárias (compostas por '0' e '1'
 
 ### Definição do DFA
 
-1. **Estados** $(\(Q\)): { \(q_0\), \(q_1\), \(q_2\) }$
+1. **Estados** $\(Q\): { \(q_0\), \(q_1\), \(q_2\) }$
 2. **Alfabeto** $\(\Sigma\)$: { '0', '1' }
 3. **Função de Transição** $\(\delta\)$:
 
