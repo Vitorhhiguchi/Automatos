@@ -1,8 +1,11 @@
+
+![Logo do projeto](https://i.imgur.com/kniMQHu.png)
+
 # Implementação de um Simulador de Autômatos Finitos Determinístico
 
 Este repositório contém uma implementação de um Autômato Finito Determinístico (DFA).
 
-## O que é um Autômato?
+## 🔥 Introdução
 
 Um autômato é um modelo matemático de um sistema de estados finitos, que pode estar em um estado de uma lista finita de estados. Ele processa uma cadeia de entrada símbolo por símbolo e muda de estado de acordo com uma função de transição.
 
@@ -39,3 +42,44 @@ Vamos criar um DFA simples que aceita cadeias binárias (compostas por '0' e '1'
 
 4. **Estado Inicial** (\(q_0\))
 5. **Estados de Aceitação** (\(F\)): { \(q_2\) }
+
+### ⚙️ Pré-requisitos
+
+```
+* Node.js
+```
+
+### 🔨 Guia de instalação
+
+Etapas para instalar:
+
+Clone esse repositório na sua máquina
+```
+git clone https://github.com/Vitorhhiguchi/Automatos
+```
+
+## 🛠️ Executando os testes (caso tenha testes)
+
+Para rodar o codigo utilizamos o seguinte comando no terminal:
+
+```
+node nomeDoArquivo.js configAutomato.json entradas.csv saidas.csv
+```
+
+## 📦 Tecnologias usadas:
+
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 👷 Autor
+
+* **Vitor Hiroshi Higuchi** - *Software Dev* - [@VitorHiguchi](https://github.com/Vitorhhiguchi)
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT License - acesse os detalhes [LICENSE.md](https://github.com/Vitorhhiguchi/Automatos?tab=MIT-1-ov-file#readme).
+
+## 💡 Expressões de gratidão
+
+* Um agradecimento publicamente.
+* Para suporte, mande um email para vitorhiroshi10@gmail.com
+* Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/vitor-hiroshi-higuchi-b0918b270/)
