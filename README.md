@@ -1,6 +1,6 @@
 # Implementação de um Simulador de Autômatos Finitos Determinístico
 
-Este repositório contém uma implementação de um Autômato Finito Determinístico (DFA) e um Autômato Finito não Determinístico em JavaScript. O DFA implementado aceita cadeias binárias que terminam em '01'.
+Este repositório contém uma implementação de um Autômato Finito Determinístico (DFA).
 
 ## O que é um Autômato?
 
@@ -39,4 +39,3 @@ Vamos criar um DFA simples que aceita cadeias binárias (compostas por '0' e '1'
 
 4. **Estado Inicial** (\(q_0\))
 5. **Estados de Aceitação** (\(F\)): { \(q_2\) }
-
