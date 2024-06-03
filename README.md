@@ -74,7 +74,7 @@ node nomeDoArquivo.js configAutomato.json entradas.csv saidas.csv
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT License - acesse os detalhes [LICENSE.md](https://github.com/Vitorhhiguchi/Automatos?tab=MIT-1-ov-file#readme).
+Esse projeto está sob a licença MIT License - acesse os detalhes [LICENSE.md](https://choosealicense.com/licenses/mit/).
 
 ## 💡 Expressões de gratidão
 
