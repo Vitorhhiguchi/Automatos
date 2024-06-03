@@ -1,6 +1,4 @@
 
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
-
 # Implementação de um Simulador de Autômatos Finitos Determinístico
 
 Este repositório contém uma implementação de um Autômato Finito Determinístico (DFA).
